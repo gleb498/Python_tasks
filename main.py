@@ -3,10 +3,7 @@ from strings import *
 
 
 def main():
-    list = [i for i in range(1,7)]
-
-
-
+    pass
 
 if __name__ == '__main__':
     main()
